@@ -1,0 +1,228 @@
+:root { 
+  --jamesdoscomalabaster: #fcfcfc;
+  --jamesdoscomamethyst: #9a64ce;
+  --jamesdoscomblack: #000000;
+  --jamesdoscomcod-gray: #1a1a1a;
+  --jamesdoscomgray: #888888;
+  --jamesdoscomnero: #ffffff;
+  --jamesdoscomseashell: #f1f1f1;
+  --jamesdoscomshark: #1d1e20;
+  --jamesdoscomwoodsmoke: #141518;
+ 
+  --font-size-110px: 110px;
+  --font-size-240px: 240px;
+  --font-size-28px: 28px;
+  --font-size-33px: 33px;
+  --font-size-36px: 36px;
+  --font-size-42px: 42px;
+  --font-size-48px: 48px;
+  --font-size-64px: 64px;
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 20px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 72px;
+ 
+  --font-family-museomoderno: "MuseoModerno", Helvetica;
+  --font-family-work_sans: "Work Sans", Helvetica;
+}
+.x42 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-42px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.black-23 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-28px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-110 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-110px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-240 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-240px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-72 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-48 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-48px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-18 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-32 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-16 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-64 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-64px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-20 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernobold-20 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-36 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-36px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.jamesdoscommuseomodernoblack-33 {
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-33px);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.worksans-normal-black-14px {
+  color: var(--jamesdoscomblack);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-normal-white-16px {
+  color: var(--jamesdoscomnero);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-normal-eerie-black-16px {
+  color: var(--jamesdoscomcod-gray);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.museomoderno-black-white-15px {
+  color: var(--jamesdoscomnero);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.worksans-bold-bunker-18px {
+  color: var(--jamesdoscomwoodsmoke);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.worksans-normal-suva-gray-14px {
+  color: var(--jamesdoscomgray);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-bold-white-16px {
+  color: var(--jamesdoscomnero);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.worksans-normal-black-16px {
+  color: var(--jamesdoscomblack);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-normal-white-14px {
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-normal-bunker-14px {
+  color: var(--jamesdoscomwoodsmoke);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-normal-eerie-black-16px-2 {
+  color: var(--jamesdoscomshark);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
